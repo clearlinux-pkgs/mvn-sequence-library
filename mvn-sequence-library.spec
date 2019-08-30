@@ -4,7 +4,7 @@
 #
 Name     : mvn-sequence-library
 Version  : 1.0.2
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/de/regnis/q/sequence/sequence-library/1.0.2/sequence-library-1.0.2.jar
 Source0  : https://repo1.maven.org/maven2/de/regnis/q/sequence/sequence-library/1.0.2/sequence-library-1.0.2.jar
 Source1  : https://repo1.maven.org/maven2/de/regnis/q/sequence/sequence-library/1.0.2/sequence-library-1.0.2.pom
